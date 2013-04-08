@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"Emmet",
+		"Git",
+		"Github Tools",
+		"Package Control",
+		"Prefixr",
+		"SublimeLinter"
+	]
+}
